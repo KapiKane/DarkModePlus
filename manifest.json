@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Dark Mode",
+  "description": "Dark mode for pages, comes in AMOLED, Black & White & has an array of ways to darken your page to your liking",
+  "version": "1.0",
+  "action": {
+    "default_popup": "moon.html",
+    "default_icon": "moon.png"
+  }
+}
